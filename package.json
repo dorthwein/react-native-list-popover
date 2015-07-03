@@ -4,7 +4,7 @@
   "description": "<ListPopover/> component to render a selectable list",
   "main": "ListPopover.js",
   "dependencies": {
-    "react-native": "^0.4.0"
+    "react-native": ">= 0.4.0"
   },
   "repository": {
     "type": "git",
